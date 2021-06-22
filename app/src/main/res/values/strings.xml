@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWeekendHomework</string>
+    <string name="send_msn">Send MSN</string>
+    <string name="tv_hint">Messages will appear here soon.</string>
+    <string name="et_hint">Write a Message</string>
+    <string name="clear">Clear</string>
+</resources>
